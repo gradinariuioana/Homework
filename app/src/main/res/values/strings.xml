@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">homework2</string>
+    <string name="btn1">Add User</string>
+    <string name="btn2">Remove User</string>
+    <string name="edit1">First and Last Name</string>
+    <string name="edit2">Mark</string>
+</resources>
